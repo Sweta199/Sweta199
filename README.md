@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sweta199
 - 👀 I’m interested in HTML,CSS,Javascript.
 - 🌱 I’m currently learning Javasacript.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can each me through github @Sweta199
 
 <!---
